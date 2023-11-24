@@ -1,14 +1,14 @@
-import './App.css';
-import {Counter} from './components/Counter';
+import "./App.css";
+import { Counter } from "./components/Counter";
 
 function App() {
   return (
-   <>
-  <div>
-  <Counter/>
-  
-  </div>
-   </>
+    <>
+      <div>
+      <h1>Docker</h1>
+        <Counter />
+      </div>
+    </>
   );
 }
 
